@@ -10,7 +10,7 @@
         particleColor       : 'rgba(255, 0, 216, 1)',
         particleRadius      : 5,
         particleCount       : 80,
-        particleMaxVelocity : 0.8,
+        particleMaxVelocity : 0.5,
         lineLength          : 150,
         particleLife		: 6,
   };
